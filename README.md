@@ -96,31 +96,6 @@ proxy -p3004
 external YOUR_VDS_IP_5
 internal 0.0.0.0
 proxy -p3005
-
-# 6. IP / Arayüz -> Port 3006
-external YOUR_VDS_IP_6
-internal 0.0.0.0
-proxy -p3006
-
-# 7. IP / Arayüz -> Port 3007
-external YOUR_VDS_IP_7
-internal 0.0.0.0
-proxy -p3007
-
-# 8. IP / Arayüz -> Port 3008
-external YOUR_VDS_IP_8
-internal 0.0.0.0
-proxy -p3008
-
-# 9. IP / Arayüz -> Port 3009
-external YOUR_VDS_IP_9
-internal 0.0.0.0
-proxy -p3009
-
-# 10. IP / Arayüz -> Port 3010
-external YOUR_VDS_IP_10
-internal 0.0.0.0
-proxy -p3010
 ```
 
 ---
